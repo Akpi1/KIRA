@@ -50,7 +50,7 @@ body{
 .tesla{
   color: #fe9748;
   font-size: 8rem;
-  font-family: CURSIVE;
+  font-family: sans-serif;
   -webkit-text-stroke: 7px #272924;
 }
 .wrapper{
